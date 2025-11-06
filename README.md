@@ -140,10 +140,5 @@ This project is licensed under the MIT License — see `LICENSE` for details.
 
 ---
 
-If you'd like, I can also:
-- add a short demo GIF or screenshots
-- expand the README's API examples (small code snippets showing connecting wallet + sending transaction)
-- add CI checks or a simple GitHub Actions workflow to run lint and typecheck
 
-If you want any of those, tell me which and I'll add them.
 
